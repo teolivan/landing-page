@@ -1,0 +1,44 @@
+
+body {
+background-image: url('2454424.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+margin: 0;
+}
+
+.yehead {
+    width: 6em;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 0px;
+    left: 2em;
+    filter: contrast(140%);
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(79, 57, 108);
+    height: 120px;
+
+}
+
+li {
+    display: inline;
+}
+
+.list-item {
+    float: right;
+    display: block;
+    margin-left: 2em;
+    margin-top: 1.2em;
+    margin-right: 2em;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+   letter-spacing: 0.5em;
+}
