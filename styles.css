@@ -255,3 +255,18 @@ font-family: 'Roboto Mono';
    position: relative;
    top: 30px;
 }
+
+@media screen and (max-width: 450px){
+    body {
+        width: 100%;
+        max-width: 450px;
+    }
+ul {
+    width: 100%;
+    display: inline-block;
+}
+li {
+    font-size: 5px;
+}
+    
+}
